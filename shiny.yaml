@@ -1,0 +1,2 @@
+shiny:
+  app: app.R  # or specify ui.R and server.R if using separate files
